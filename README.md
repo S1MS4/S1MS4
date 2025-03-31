@@ -52,7 +52,7 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 
 🎮 **Unity & Roblox Games**  
 🕹️ Creating **simple indie 2D & 3D games** using **Unity & C#**, and experimenting with **Roblox Studio & Lua**!  
-🔗 **Check out my projects** on my GitHub!  
+🔗 **Check out my projects** on my GitHub!  **[pending]**
 
 ---
 
