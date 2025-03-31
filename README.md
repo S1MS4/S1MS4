@@ -4,7 +4,7 @@
 
 ## 👋 About Me 
 
-Hey there! I'm **S1MS4**, a **19-year-old student** at **VILNIUS TECH** 🏫 in **Vilnius, Lithuania** 🇱🇹.  
+Hey there! I'm **S1MS4**, a **19-year-old student** at **VILNIUS TECH** 🏦 in **Vilnius, Lithuania** 🇱🇹.  
 I'm passionate about **coding, game development, cybersecurity**, and exploring new tech! 🖥️✨  
 
 </div>
@@ -20,19 +20,25 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 🟢 **Programming Languages:**  
 💻 **Python** – Beginner to intermediate projects 🐍  
 💻 **C / C++ / C#** – Basics with hands-on experience  
+💻 **Lua** – Basic scripting for **Roblox Engine** (3 months)  
 
 🎮 **Game Development:**  
 🛠 **Unity & C#** – 1 year of experience creating **simple indie 2D & 3D games**  
+🛠 **Roblox Studio & Lua** – 3 months of experience in **game scripting**  
 
 🛡️ **Cybersecurity & Databases:**  
 🔍 **Basic cybersecurity knowledge** – SQL injection, vulnerabilities, ethical hacking concepts  
-🗄 **SQL Basics** – Queries, database management  
+🟢 **SQL Basics** – Queries, database management  
+
+🎨 **Design & 3D Modeling:**  
+🎨 **GIMP** – Basic experience in digital design  
+🎨 **Blender** – Beginner-level 3D modeling  
 
 ---
 
 <div align="center">
 
-## 🌟 Featured Projects  
+## ✨ Featured Projects  
 
 </div>
 
@@ -40,13 +46,13 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 🔎 **Car tracking system** (*video* and *image*) using **YOLO (You Only Look Once)** for object detection.  
 🔗 **Check it out:** [Car-Tracking-with-YOLO](https://github.com/S1MS4/Car-Tracking-with-YOLO)  
 
-### ⌨️ Typeracer Script  
+### ⌘️ Typeracer Script  
 ⚡ A **Python script** that automates typing in **Typeracer** to boost speed! 🚀  
 🔗 **Check it out:** [Typeracer Script](https://github.com/S1MS4/typeracer_script)  
 
-🎮 **Unity Games**  
-🕹️ Creating **simple indie 2D & 3D games** using **Unity & C#**!  
-🔗 **Check out my Unity projects** on my GitHub!  
+🎮 **Unity & Roblox Games**  
+🕹️ Creating **simple indie 2D & 3D games** using **Unity & C#**, and experimenting with **Roblox Studio & Lua**!  
+🔗 **Check out my projects** on my GitHub!  
 
 ---
 
