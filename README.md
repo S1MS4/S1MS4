@@ -37,7 +37,7 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 </div>
 
 ### 🚗 Car Tracking with YOLO  
-🔎 A real-time **car tracking system** using **YOLO (You Only Look Once)** for object detection.  
+🔎 **Car tracking system** (*video* and *image*) using **YOLO (You Only Look Once)** for object detection.  
 🔗 **Check it out:** [Car-Tracking-with-YOLO](https://github.com/S1MS4/Car-Tracking-with-YOLO)  
 
 ### ⌨️ Typeracer Script  
