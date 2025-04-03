@@ -4,7 +4,7 @@
 
 ## 👋 About Me 
 
-Hey there! I'm **S1MS4**, a **19-year-old student** at **VILNIUS TECH** 🏦 in **Vilnius, Lithuania** 🇱🇹.  
+Hey there! I'm **S1MS4**, a **19-year-old student** at **VILNIUS TECH** 🏶 in **Vilnius, Lithuania** 🇱🇹.  
 I'm passionate about **coding, game development, cybersecurity**, and exploring new tech! 🖥️✨  
 
 </div>
@@ -50,9 +50,13 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 ⚡ A **Python script** that automates typing in **Typeracer** to boost speed! 🚀  
 🔗 **Check it out:** [Typeracer Script](https://github.com/S1MS4/typeracer_script)  
 
+### 🦖 DinoRun 3D  
+🎮 An **endless runner game** where you control a dinosaur dodging obstacles in a colorful 3D world! 🌱🌟  
+🔗 **Check it out:** [DinoRun-3D](https://github.com/S1MS4/DinoRun-3d)  
+
 🎮 **Unity & Roblox Games**  
 🕹️ Creating **simple indie 2D & 3D games** using **Unity & C#**, and experimenting with **Roblox Studio & Lua**!  
-🔗 **Check out my projects** on my GitHub!  **[pending]**
+🔗 **Check out my projects** on my GitHub!  
 
 ---
 
@@ -70,6 +74,8 @@ I'm still exploring different areas, and I hope to build more **games, automatio
 <div align="center">
 
 ## 🤝 Get in Touch  
+
+</div>
 
 💬 I'm always open to learning from others and working on interesting projects.  
 📩 Feel free to check out my repositories or reach out!  
