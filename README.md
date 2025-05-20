@@ -4,7 +4,7 @@
 
 ## 👋 About Me 
 
-Hey there! I'm **S1MS4**, a **19-year-old student** at **VILNIUS TECH** 🏶 in **Vilnius, Lithuania** 🇱🇹.  
+Hey there! I'm **S1MS4**, a **student** at **VILNIUS TECH** 🏶 in **Vilnius, Lithuania** 🇱🇹.  
 I'm passionate about **coding, game development, cybersecurity**, and exploring new tech! 🖥️✨  
 
 </div>
