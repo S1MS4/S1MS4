@@ -5,7 +5,7 @@
 ## 👋 About Me 
 
 Hey there! I'm **S1MS4**, a **student** at **VILNIUS TECH** 🏶 in **Vilnius, Lithuania** 🇱🇹.  
-I'm passionate about **coding, game development, cybersecurity**, and exploring new tech! 🖥️✨  
+I sometimes code and mess around with electronics 🖥️✨  
 
 </div>
 
@@ -19,7 +19,7 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 
 🟢 **Programming Languages:**  
 💻 **Python** – Beginner to intermediate projects 🐍  
-💻 **C / C++ / C#** – Basics with hands-on experience  
+💻 **C / C++ / C#** – Basics  
 💻 **Lua** – Basic scripting for **Roblox Engine** (3 months)  
 
 🎮 **Game Development:**  
@@ -27,7 +27,7 @@ I'm passionate about **coding, game development, cybersecurity**, and exploring 
 🛠 **Roblox Studio & Lua** – 3 months of experience in **game scripting**  
 
 🛡️ **Cybersecurity & Databases:**  
-🔍 **Basic cybersecurity knowledge** – SQL injection, vulnerabilities, ethical hacking concepts  
+🔍 **Basic cybersecurity knowledge** – SQL injection, vulnerabilities, basic ethical hacking concepts  
 🟢 **SQL Basics** – Queries, database management  
 
 🎨 **Design & 3D Modeling:**  
