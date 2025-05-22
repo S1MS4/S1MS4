@@ -5,7 +5,7 @@
 ## 👋 About Me 
 
 Hey there! I'm **S1MS4**, a **student** at **VILNIUS TECH** 🏶 in **Vilnius, Lithuania** 🇱🇹.  
-I sometimes code and mess around with electronics 🖥️✨  
+I sometimes code and mess often short circuit electronics   
 
 </div>
 
@@ -28,11 +28,11 @@ I sometimes code and mess around with electronics 🖥️✨
 
 🛡️ **Cybersecurity & Databases:**  
 🔍 **Basic cybersecurity knowledge** – SQL injection, vulnerabilities, basic ethical hacking concepts  
-🟢 **SQL Basics** – Queries, database management  
+🟢 **SQL Basics** – it's sql man
 
 🎨 **Design & 3D Modeling:**  
-🎨 **GIMP** – Basic experience in digital design  
-🎨 **Blender** – Beginner-level 3D modeling  
+🎨 **GIMP** – I touched it maybe twice
+🎨 **Blender** – Low poly model lover
 
 ---
 
