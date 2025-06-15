@@ -50,12 +50,6 @@ A simple 3D endless runner featuring a dinosaur and obstacles.
 
 Currently focused on:  
 - Improving Python scripting  
-- Learning Unity and C# more deeply  
 - Exploring cybersecurity fundamentals
 
 ---
-
-## 💬 Let's Connect
-
-Open to collaborations, feedback, or just a chat.  
-**GitHub:** [S1MS4](https://github.com/S1MS4)
