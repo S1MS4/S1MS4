@@ -1,85 +1,61 @@
 <div align="center">
 
-# 🎮 Welcome to My GitHub Profile! 🚀
+# S1MS4's GitHub
 
-## 👋 About Me 
-
-Hey there! I'm **S1MS4**, a **student** at **VILNIUS TECH** 🏶 in **Vilnius, Lithuania** 🇱🇹.  
-I sometimes code and mess often short circuit electronics   
+Student @ VILNIUS TECH • Interested in game dev, automation, and cybersecurity  
+Building small projects, learning by breaking things (occasionally on purpose)
 
 </div>
 
 ---
 
-<div align="center">
+## ⚙️ Skills
 
-## 🔥 Skills & Technologies  
+**Languages**  
+- Python – Scripting and small tools  
+- C / C++ / C# – Basic to intermediate understanding  
+- Lua – Scripting in Roblox Studio
 
-</div>
+**Game Development**  
+- Unity (C#) – 2D/3D indie game projects  
+- Roblox Studio – Light scripting experience
 
-🟢 **Programming Languages:**  
-💻 **Python** – Beginner to intermediate projects 🐍  
-💻 **C / C++ / C#** – Basics  
-💻 **Lua** – Basic scripting for **Roblox Engine** (3 months)  
+**Cybersecurity & Data**  
+- Basic knowledge of security concepts (SQLi, common vulnerabilities)  
+- SQL – Enough to get the data I need
 
-🎮 **Game Development:**  
-🛠 **Unity & C#** – 1 year of experience creating **simple indie 2D & 3D games**  
-🛠 **Roblox Studio & Lua** – 3 months of experience in **game scripting**  
-
-🛡️ **Cybersecurity & Databases:**  
-🔍 **Basic cybersecurity knowledge** – SQL injection, vulnerabilities, basic ethical hacking concepts  
-🟢 **SQL Basics** – it's sql man
-
-🎨 **Design & 3D Modeling:**  
-🎨 **GIMP** – I touched it maybe twice
-🎨 **Blender** – Low poly model lover
+**Design & 3D**  
+- GIMP – Basic image editing  
+- Blender – Focused on low-poly modeling
 
 ---
 
-<div align="center">
+## 🔍 Projects
 
-## ✨ Featured Projects  
+**Car Tracking with YOLO**  
+Object detection in video/images using YOLO.  
+[Repository](https://github.com/S1MS4/Car-Tracking-with-YOLO)
 
-</div>
+**Typeracer Script**  
+Python script that simulates fast typing for Typeracer.  
+[Repository](https://github.com/S1MS4/typeracer_script)
 
-### 🚗 Car Tracking with YOLO  
-🔎 **Car tracking system** (*video* and *image*) using **YOLO (You Only Look Once)** for object detection.  
-🔗 **Check it out:** [Car-Tracking-with-YOLO](https://github.com/S1MS4/Car-Tracking-with-YOLO)  
-
-### ⌘️ Typeracer Script  
-⚡ A **Python script** that automates typing in **Typeracer** to boost speed! 🚀  
-🔗 **Check it out:** [Typeracer Script](https://github.com/S1MS4/typeracer_script)  
-
-### 🦖 DinoRun 3D  
-🎮 An **endless runner game** where you control a dinosaur dodging obstacles in a colorful 3D world! 🌱🌟  
-🔗 **Check it out:** [DinoRun-3D](https://github.com/S1MS4/DinoRun-3d)  
-
-🎮 **Unity & Roblox Games**  
-🕹️ Creating **simple indie 2D & 3D games** using **Unity & C#**, and experimenting with **Roblox Studio & Lua**!  
-🔗 **Check out my projects** on my GitHub!  
+**DinoRun 3D**  
+A simple 3D endless runner featuring a dinosaur and obstacles.  
+[Repository](https://github.com/S1MS4/DinoRun-3d)
 
 ---
 
-<div align="center">
+## 📚 Learning Goals
 
-## 📚 Learning & Future Goals  
-
-</div>
-
-Right now, I'm focused on improving my **Python, cybersecurity**, and **C# for Unity** skills.  
-I'm still exploring different areas, and I hope to build more **games, automation tools, and security-related projects** in the future.  
+Currently focused on:  
+- Improving Python scripting  
+- Learning Unity and C# more deeply  
+- Exploring cybersecurity fundamentals
 
 ---
 
-<div align="center">
+## 💬 Let's Connect
 
-## 🤝 Get in Touch  
-
-</div>
-
-💬 I'm always open to learning from others and working on interesting projects.  
-📩 Feel free to check out my repositories or reach out!  
-
-🔗 **GitHub:** [S1MS4](https://github.com/S1MS4)  
-
-</div>
+Open to collaborations, feedback, or just a chat.  
+**GitHub:** [S1MS4](https://github.com/S1MS4)
