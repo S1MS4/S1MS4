@@ -2,7 +2,7 @@
 
 # S1MS4's GitHub
 
-Student @ VILNIUS TECH • Interested in game dev, automation, and cybersecurity  
+Interested in game dev, automation, and cybersecurity  
 Building small projects, learning by breaking things (occasionally on purpose)
 
 </div>
