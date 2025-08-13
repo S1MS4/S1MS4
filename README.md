@@ -25,7 +25,6 @@ Building small projects, learning by breaking things (occasionally on purpose)
 - SQL – Enough to get the data I need
 
 **Design & 3D**  
-- GIMP – Basic image editing  
 - Blender – Focused on low-poly modeling
 
 ---
