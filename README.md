@@ -26,29 +26,3 @@ Building small projects, learning by breaking things (occasionally on purpose)
 
 **Design & 3D**  
 - Blender – Focused on low-poly modeling
-
----
-
-## 🔍 Projects
-
-**Car Tracking with YOLO**  
-Object detection in video/images using YOLO.  
-[Repository](https://github.com/S1MS4/Car-Tracking-with-YOLO)
-
-**Typeracer Script**  
-Python script that simulates fast typing for Typeracer.  
-[Repository](https://github.com/S1MS4/typeracer_script)
-
-**DinoRun 3D**  
-A simple 3D endless runner featuring a dinosaur and obstacles.  
-[Repository](https://github.com/S1MS4/DinoRun-3d)
-
----
-
-## 📚 Learning Goals
-
-Currently focused on:  
-- Improving Python scripting  
-- Exploring cybersecurity fundamentals
-
----
