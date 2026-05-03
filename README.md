@@ -1,28 +1,92 @@
 <div align="center">
 
-# S1MS4's GitHub
+# Hi, I'm S1MS4 👋
 
-Interested in game dev, automation, and cybersecurity  
-Building small projects, learning by breaking things (occasionally on purpose)
+### Building interactive systems across AI, web, 3D, and game development
+
+🎓 Studying **AI Systems Engineering**  
+⚡ Interested in **Game Development, Automation, Graphics, and Intelligent Systems**
 
 </div>
 
 ---
 
-## ⚙️ Skills
+## 🚀 About Me
 
-**Languages**  
-- Python – Scripting and small tools  
-- C / C++ / C# – Basic to intermediate understanding  
-- Lua – Scripting in Roblox Studio
+I'm a developer focused on building interactive digital experiences.
 
-**Game Development**  
-- Unity (C#) – 2D/3D indie game projects  
-- Roblox Studio – Light scripting experience
+My work spans:
 
-**Cybersecurity & Data**  
-- Basic knowledge of security concepts (SQLi, common vulnerabilities)  
-- SQL – Enough to get the data I need
+- 🤖 AI systems & automation
+- 🎮 Game development
+- 🌐 Full-stack web experiments
+- 🧩 3D modeling and rendering
 
-**Design & 3D**  
-- Blender – Focused on low-poly modeling
+I enjoy combining technical systems with creative design to build projects that are both functional and visually engaging.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,lua" />
+</p>
+
+- **Python** → Automation, scripting, tooling
+- **C / C++** → Systems programming fundamentals
+- **C#** → Unity development
+- **JavaScript** → Interactive web development
+- **Lua** → Roblox scripting
+
+---
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender,git,vscode" />
+</p>
+
+- **Unity** — 2D/3D game development
+- **Roblox Studio** — Gameplay scripting & prototyping
+- **Blender**
+  - Low-poly modeling
+  - Material creation
+  - Shading
+  - Texturing
+  - Rendering
+
+---
+
+## 🌐 Featured Project
+
+### 🏠 Roomly
+
+A web-based project built from scratch using:
+
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Live Demo:**  
+https://roomly.fun/
+
+Focused on:
+
+- Clean frontend architecture
+- Interactive UI design
+- Deployment workflow
+
+---
+
+## 🎮 Development Interests
+
+```txt
+AI Systems
+Game Engines
+Procedural Generation
+Automation Tools
+3D Graphics
+Interactive Experiences
+Creative Coding
