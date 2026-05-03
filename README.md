@@ -30,15 +30,17 @@ I enjoy combining technical systems with creative design to build projects that 
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,lua" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,lua,mysql,oraclesql" />
 </p>
 
-- **Python** → Automation, scripting, tooling
-- **C / C++** → Systems programming fundamentals
-- **C#** → Unity development
-- **JavaScript** → Interactive web development
-- **Lua** → Roblox scripting
+- **Python** → Automation, scripting, tooling  
+- **C / C++** → Systems programming fundamentals  
+- **C#** → Unity development  
+- **JavaScript** → Interactive web development  
+- **HTML / CSS** → Frontend structure and styling  
+- **Lua** → Roblox scripting  
+- **MySQL / Oracle SQL** → Database design and querying
 
 ---
 
