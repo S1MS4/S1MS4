@@ -1,6 +1,6 @@
 <div align="center">
 
-#S1MS4
+# S1MS4
 
 ### Building interactive systems across AI, web, 3D, and game development
 
