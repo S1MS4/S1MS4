@@ -11,7 +11,8 @@ Studying **AI Systems Engineering**
 
 **Languages:**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,lua,mysql,oraclesql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs" />
+<img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,oraclesql" />
 
 **Frameworks & Tools:**
 
