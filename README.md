@@ -1,6 +1,6 @@
 # Hi, I'm S1MS4
 
-<img width="55%" align="right" src="hi_crop.gif" />
+<img width="57%" align="right" src="hi_crop.gif" />
 
 Studying **AI Systems Engineering**
 
@@ -9,15 +9,17 @@ Studying **AI Systems Engineering**
 - **Web Dev** – Full-stack experiments and interactive UI
 - **3D Graphics** – Modeling, texturing, and rendering
 
+
 **Languages:**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,cs" />
+
 <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,oraclesql" />
+<br clear="right"/>
+<a href="https://roomly.fun" target="_blank">
+    <img align="right" src="roomly.png" width="70%" alt="Roomly" />
+</a>
 
 **Frameworks & Tools:**
 
 <img src="https://skillicons.dev/icons?i=unity,blender,git,vscode" />
-
-<a href="https://roomly.fun" target="_blank">
-    <img allign="center" src="roomly.png" width="45%" alt="Roomly" />
-</a>
