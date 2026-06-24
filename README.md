@@ -1,6 +1,6 @@
 # Hi, I'm S1MS4
 
-<img width="55%" align="right" src="hi.gif" />
+<img width="55%" align="right" src="hi_crop.gif" />
 
 Studying **AI Systems Engineering**
 
@@ -17,3 +17,7 @@ Studying **AI Systems Engineering**
 **Frameworks & Tools:**
 
 <img src="https://skillicons.dev/icons?i=unity,blender,git,vscode" />
+
+<a href="https://roomly.fun" target="_blank">
+    <img allign="center" src="roomly.png" width="45%" alt="Roomly" />
+</a>
