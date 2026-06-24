@@ -1,6 +1,6 @@
-## Hi, I'm S1MS4
+# Hi, I'm S1MS4
 
-<img width="55%" align="right" src="welcome.gif" />
+<img width="55%" align="right" src="hi.gif" />
 
 Studying **AI Systems Engineering**
 
