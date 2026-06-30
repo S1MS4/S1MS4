@@ -22,5 +22,5 @@ Studying **AI Systems Engineering**
 
 **Frameworks & Tools:**
 
-<img src="https://skillicons.dev/icons?i=unity,blender,git,vscode" />
+<img src="https://skillicons.dev/icons?i=unity,robloxstudio,blender,git,vscode" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1MS4&layout=compact&langs_count=8&bg_color=ccb9da&title_color=000000&text_color=4a3b52&icon_color=d97a9c&border_color=b89cc7" />
