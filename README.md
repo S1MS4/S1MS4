@@ -19,7 +19,7 @@ Studying **AI Systems Engineering**
 <a href="https://roomly.fun" target="_blank">
     <img align="right" src="roomly.png" width="50%" alt="Roomly" />
 </a>
-<img align="right" src="kitties.gif" width="50%" alt="" />
+<img align="right" src="kitty_duo.gif" width="50%" alt="" />
 
 **Frameworks & Tools:**
 
