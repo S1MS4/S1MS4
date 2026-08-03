@@ -13,7 +13,7 @@ studying **AI Systems Engineering**
 <img src="https://skillicons.dev/icons?i=python,cpp,c,cs" />
 
 <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,oraclesql" />
-<br clear="right"/>
+
 <a href="https://roomly.fun" target="_blank">
     <img align="right" src="roomly.png" width="50%" alt="Roomly" />
 </a>
