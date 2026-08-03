@@ -1,13 +1,11 @@
-# Hi, I'm S1MS4
+# S1MS4
 
 <img width="57%" align="right" src="hi_crop.gif" />
 
-Studying **AI Systems Engineering**
+**Developer & Automations Engineer**
+studying **AI Systems Engineering**
 
-- **AI & Automation** – Systems, tooling, and scripting
-- **Game Dev** – Unity and Roblox development
-- **Web Dev** – Full-stack experiments and interactive UI
-- **3D Graphics** – Modeling, texturing, and rendering
+**Python** is my primary language; I also work in **JavaScript**, **C**, and **C++**.
 
 
 **Languages:**
@@ -26,4 +24,4 @@ Studying **AI Systems Engineering**
 <img src="https://skillicons.dev/icons?i=unity,robloxstudio,blender,git" />
 <img src="https://skillicons.dev/icons?i=vscode,tensorflow,selenium,sklearn" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=S1MS4&layout=compact&langs_count=8&bg_color=ccb9da&title_color=000000&text_color=4a3b52&icon_color=d97a9c&border_color=b89cc7" />
-<br clear="right"/>
+<sub><i>we bow to Dario Amodei</i></sub>
